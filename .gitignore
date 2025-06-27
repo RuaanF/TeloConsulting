@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out/
+build/
+
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+firebase-debug.log
+firebase-debug.*
+firebase.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.production
